@@ -5,7 +5,7 @@
 go mod init github.com/my/repo
 ```
 
-Then install generateuniqueid helo redis:
+Then install generateuniqueid using redis:
 
 ```shell
 go get github.com/skbhati199/generateuniqueid
