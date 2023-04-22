@@ -1,4 +1,4 @@
-module github.com/skbhati199/generateUnqiueId
+module github.com/skbhati199/generateUniqueId
 
 go 1.17
 

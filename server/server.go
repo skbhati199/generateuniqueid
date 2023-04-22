@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	generatePkg "github.com/skbhati199/generateUnqiueId/pkg"
+	generatePkg "github.com/skbhati199/generateuniqueid/pkg"
 )
 
 func main() {
